@@ -6,7 +6,23 @@
     font-size: '18px';
     }
 
-    header, nav, section, aside, footer {
+    header {
+    background: '#ebebeb';
+    }
+
+    nav {
+    background: '#ebebeb';
+    }
+
+    section {
+    background: '#ebebeb';
+    }
+    
+    aside {
+    background: '#ebebeb';
+    }
+
+    footer {
     background: '#ebebeb';
     }
 
