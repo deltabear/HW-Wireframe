@@ -29,7 +29,6 @@
     aside {
         background: #ebebeb;
         float: right;
-        width: 495px;
     }
     
     article {
@@ -53,3 +52,4 @@
         background: #ebebeb;
         padding: 5px;
     }
+    /* Thanks Jason Emerson for help! Margin-top keeps footer at bottom of page */
