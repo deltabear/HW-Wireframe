@@ -48,5 +48,8 @@
     }  
     
     footer {
+        margin-top: 33%;
+        text-align: center;
         background: #ebebeb;
+        padding: 5px;
     }
