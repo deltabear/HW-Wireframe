@@ -31,11 +31,7 @@
         float: right;
         width: 495px;
     }
-
-    footer {
-        background: #ebebeb;
-    }
-
+    
     article {
         color: #ebebeb;
         background: #777;
@@ -48,5 +44,9 @@
     
     p {
         color: #777;
+        background: #ebebeb;
+    }  
+    
+    footer {
         background: #ebebeb;
     }
