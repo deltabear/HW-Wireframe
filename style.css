@@ -47,9 +47,9 @@
     }
     
     article {
-        margin-top: 20px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-top: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
         padding: 20px;
         color: #ebebeb;
         background: #777;
@@ -58,8 +58,7 @@
     h1 {
         margin-left: auto;
         margin-right: auto;
-        padding-bottom: 5px;
-        padding-top: 5px;
+        padding: 20px;
         color: #777;
         background: #ebebeb;
     } 
@@ -67,8 +66,7 @@
     p {
         margin-left: auto;
         margin-right: auto;
-        padding-bottom: 5px;
-        padding-top: 5px;
+        padding: 20px;
         color: #777;
         background: #ebebeb;
     }  
