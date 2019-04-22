@@ -28,7 +28,6 @@
     }
 
     section {
-        background: #ebebeb;
         float: left;
         width: 495px;
         height: 300px;
@@ -37,7 +36,6 @@
     }
     
     aside {
-        background: #ebebeb;
         float: right;
         width: 45%;
         height: 300px;
@@ -74,7 +72,6 @@
     footer {
         margin-top: 10px;
         clear: both;
-        background: #ebebeb;
         padding: 40px;
     }
     /* Thanks Jason Emerson for help! Margin-top keeps footer at bottom of page */
