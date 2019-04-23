@@ -59,13 +59,14 @@ html {
 
     h1 {
         padding: 15px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
         color: #777;
         background: #ebebeb;
     } 
     
     p {
         padding: 15px;
+        margin-top: 1px;
         color: #777;
         background: #ebebeb;
     }  
